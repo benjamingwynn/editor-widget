@@ -19,10 +19,6 @@
     "slap-util": "1.0.7",
     "text-buffer": "8.0.6"
   },
-  "devDependencies": {
-    "get-random-port": "0.0.1",
-    "tape": "4.6.0"
-  },
   "scripts": {
     "test": "spec/index.js"
   },
